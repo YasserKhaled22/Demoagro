@@ -1,0 +1,248 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="agro.net" resolutions="1x" timestamp="1758539872014">
+  <folder name="assets">
+    <file name="66d44ca86f58536866dcc3bc_66a8c2f2d60c34a95a1a8c05_iqf20root-20colocasia.webp" crc="105938526" seo="true" mt="1758531821000"/>
+    <file name="66d44ca7eea6c8231a384f41_66a8bf0f1e3c2b590c050484_british-straw.webp" crc="350959056" seo="true" mt="1758531785000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3795648805" ref="index:about-us"/>
+    <file name="nomq_preview_master_a-master.css" crc="3861917277" ref="index:about-us"/>
+    <file name="index.css" crc="417122435" ref="index"/>
+    <file name="nomq_index.css" crc="230604955" ref="index"/>
+    <file name="about-us.css" crc="151033322" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="495322905" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-us"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-us"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:about-us"/>
+    <file name="require.js" crc="4177726516" ref="index:about-us"/>
+  </folder>
+  <folder name="images">
+    <file name="66d903f3844df2378ac634e4_agp-logo-transparent.png" crc="445593092" seo="true" ref="index:about-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="1320.jpg" crc="3795550247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u221-8.png" crc="532026279" ref="index"/>
+    <file name="u1693-6.png" crc="154233124" ref="index"/>
+    <file name="poster straberry.jpg" crc="192879586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster atr.jpg" crc="342896315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster broccoli.jpg" crc="3813787343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1749-4.png" crc="451564360" ref="index"/>
+    <file name="فروله.jpg" crc="446640367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="باميه.jpg" crc="377264201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="بروكلي.jpg" crc="116819054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corn.jpg" crc="3842452804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="papper.jpg" crc="4196230811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="بسله.jpg" crc="375340358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="خرشوف.jpg" crc="140219394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="فاصوليا.jpg" crc="262276262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="فول.jpg" crc="135070034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="قرنبي.jpg" crc="227219054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="قلقاس.jpg" crc="4019075397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ملوخيه.jpg" crc="3972583457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="خرشوف2.jpg" crc="142879106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1938-4.png" crc="520534473" ref="index"/>
+    <file name="cauliflower.png" crc="347894558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us"/>
+    <file name="corn.png" crc="501334270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green beanc.png" crc="3854631182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green beanc2.png" crc="521336227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="molokhia.png" crc="4222889140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okra.png" crc="3894910666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peas.png" crc="3842606763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pepper.png" crc="3973022737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strawbeery.png" crc="49095768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="taro.png" crc="332820026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u4041-4.png" crc="4227786864" ref="index"/>
+    <file name="66ae759749e5863cc66c59bb_iso 9001.png" crc="249170937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66ae7597de39ed4a533ba4f2_iso 14001-p-500.png" crc="121753962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66ae7597a3c08153b98a9c77_iso 22001-p-500.png" crc="322082176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66ae759841d649ec0cf42a2c_iso 45001-p-500.png" crc="492503524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66ae6fb1cd20254a2964026f_logo_fssc22000-p-500.png" crc="4165737575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="670d109355cb267bfc552f52_fda-p-500.jpg" crc="523965260" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66e81338bbe98a4b8713351e_65e8a4b8707accb8f89d188f_brcgs food certified-p-500.jpg" crc="4174816511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1320960x539.jpg" crc="269888102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u221-82.png" crc="532026279" ref="index"/>
+    <file name="u1693-62.png" crc="4261182413" ref="index"/>
+    <file name="u1749-42.png" crc="3774174185" ref="index"/>
+    <file name="خرشوف962x570.jpg" crc="4239902498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1938-42.png" crc="219230781" ref="index"/>
+    <file name="u4041-42.png" crc="365692365" ref="index"/>
+    <file name="u2010-4.png" crc="1812755" ref="index"/>
+    <file name="66d44c3fb524bb3ac476ed91_66a8c07fa321ae43783e9175_iqf-20broccoli-crop-u4228.jpg" crc="3764201467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44ca62ad1dac942ac88f8_66a8c1a61e3c2b590c0757a1_iqf-20molokhia.jpg" crc="125575440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44ca7922f82a49a350a88_6697f792450cdef625e3629b_iqf-sweet-corn.png" crc="32314186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44d076f58536866dd0c88_frozen-goodscom-iqf-sweet-potato.jpg" crc="120645321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44c4003091f83e38bf2e7_66a8c14801e7067b1d3e9af4_iqf20beans-crop-u4208.jpg" crc="4219691922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44ca7223b8886a26e0c7a_6697f8309cecdcbdbd0e8ac8_thumb_665_1080_1080_0_0_auto.jpg" crc="4217898466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7641-4.png" crc="4087470935" ref="index"/>
+    <file name="66d44c3fb5bebfb7d673251d_66a8c25a772ce25e572c58d7_iqf20beans.jpg" crc="446982058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44c40e9cbcd03c62bdf38_66a8c2a1b87ff7d6a838abf1_iqf20peas.jpg" crc="132478206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44ca6b5bebfb7d6738ce3_66a8c1e3c3f3de8b7cdfc119_iqf-20okra.jpg" crc="3815532292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44c3f9e923ea670519f10_6697f78c0a954e198306cc1c_354-organic-frozen-beetroot-iqf.jpg" crc="4034910743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44c3fb524bb3ac476ed82_66a8bfe3e8f524a5b3869b35_351-organic-frozen-artichoke-iqf.jpg" crc="209241484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44c42922f82a49a348942_66a8c0c36cb869ddb64b38b5_cauliflower--768x461.jpg" crc="484457045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2010-42.png" crc="4107885945" ref="index"/>
+    <file name="66d44c3fb524bb3ac476ed91_66a8c07fa321ae43783e9175_iqf-20broccoli-crop-u42282.jpg" crc="294400779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66d44c4003091f83e38bf2e7_66a8c14801e7067b1d3e9af4_iqf20beans-crop-u42082.jpg" crc="4212543784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7641-42.png" crc="3779387562" ref="index"/>
+    <file name="66d44c3fb524bb3ac476ed82_66a8bfe3e8f524a5b3869b35_351-organic-frozen-artichoke-iqf275x235.jpg" crc="3880255913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4140279544" seo="true" mt="1758539349472" redirect="true"/>
+  <file name="about-us.html" crc="14958502" seo="true" mt="1758528968819" redirect="true"/>
+</manifest>
